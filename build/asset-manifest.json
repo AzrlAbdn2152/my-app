@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AzrlAbdn2152/my-app.git/static/css/main.5837a311.css",
+    "main.js": "/AzrlAbdn2152/my-app.git/static/js/main.0fbe6683.js",
+    "static/js/885.70931012.chunk.js": "/AzrlAbdn2152/my-app.git/static/js/885.70931012.chunk.js",
+    "static/media/ab01.jpg": "/AzrlAbdn2152/my-app.git/static/media/ab01.c24d024ff878344102ef.jpg",
+    "static/media/bootstrap-icons.woff?": "/AzrlAbdn2152/my-app.git/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/AzrlAbdn2152/my-app.git/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/AzrlAbdn2152/my-app.git/index.html",
+    "main.5837a311.css.map": "/AzrlAbdn2152/my-app.git/static/css/main.5837a311.css.map",
+    "main.0fbe6683.js.map": "/AzrlAbdn2152/my-app.git/static/js/main.0fbe6683.js.map",
+    "885.70931012.chunk.js.map": "/AzrlAbdn2152/my-app.git/static/js/885.70931012.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5837a311.css",
+    "static/js/main.0fbe6683.js"
+  ]
+}
